@@ -1,0 +1,9 @@
+---
+applications:
+- name: cf-nodejs
+  memory: 192M
+  instances: 1
+  random-route: false
+  host: myfisrtapp 
+  domain: cfapps.us10-001.hana.ondemand.com
+
